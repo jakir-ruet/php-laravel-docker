@@ -10,6 +10,8 @@ services:
     build:
       context: ./dokerfiles
       dockerfile: php.dockerfile
+    volumes:
+      - ./src:/var/www/html:delegated
   # mysql:
   # composer:
   # artisan:

@@ -6,6 +6,8 @@
 
 ### Welcome to php laravel web app deployment on docker.
 
+#### References
+[docker-library/php](https://github.com/docker-library/php)
 
 ### Courtesy of Jakir
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
