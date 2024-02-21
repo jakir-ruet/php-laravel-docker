@@ -7,9 +7,12 @@
 ### Welcome to php laravel web app deployment on docker.
 
 #### References
-[NGINX](https://hub.docker.com/_/nginx)
-[docker-library/php](https://github.com/Docker-Library/php)
-[MySQL](https://hub.docker.com/_/mysql)
+1. [NGINX](https://hub.docker.com/_/nginx)
+2. Php
+   - [docker-library/php](https://github.com/Docker-Library/php)
+   - [Php](https://hub.docker.com/_/php)
+3. [MySQL](https://hub.docker.com/_/mysql)
+4. [Composer](https://hub.docker.com/_/composer)
 
 ### Courtesy of Jakir
 [![LinkedIn][linkedin-shield-jakir]][linkedin-url-jakir]
